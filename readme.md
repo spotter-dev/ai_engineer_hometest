@@ -139,7 +139,7 @@ If you want, I can suggest A/B test ideas based on your recent uploads.
 
 ## Notes
 
-* You may preprocess transcripts (e.g., normalization, sentence splitting) as needed.
+* You may preprocess transcripts (e.g., normalization, sentence splitting, embedding) as needed.
 * Keep the footprint modest; don’t over-engineer. A working, well-explained baseline beats an unfinished system.
 
 ---
