@@ -93,9 +93,9 @@ A simple `eval.py` that runs a small set of prompts and prints results (and pass
 
 Your bot’s answer for each question should include:
 
-1. **Actionable recommendations** tailored to the question (bulleted).
-2. **Rationale** for each recommendation (one short sentence each is fine).
-3. **Citations** immediately after the relevant bullet or grouped at the end.
+1. **Actionable recommendations** tailored to the question.
+2. **Rationale** for each recommendation.
+3. **Citations** immediately after the relevant recommendation or grouped at the end.
 
 **Example**
 
