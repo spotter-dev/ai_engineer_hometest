@@ -7,8 +7,8 @@ Build a small but production-minded chatbot that gives creators practical advice
 * **Timebox (suggested):** 4–6 hours
 * **What we provide:** A `transcripts/` folder containing two \~1-hour transcripts about YouTube channel growth, each with timestamps and basic metadata.
 
-  * aprilynne.txt
-  * hayden.txt
+  * `aprilynne.txt` This video is about improving video introductions.
+  * `hayden.txt` This video is about improving storytelling.
 * **What you deliver:** A runnable project with a README and a minimal interface (CLI or simple web/API endpoint) that we can use to ask questions and view grounded answers with sources.
 
 > You may use any code generation tools (e.g., Copilot, ChatGPT, Cursor, Claude Code) but you should be prepared to explain **every** part of your code and design decisions during the review.
